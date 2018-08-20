@@ -1,0 +1,2355 @@
+1177
+iteration : 0
+elapsed_time:1.65359997749[sec]
+iteration : 1
+elapsed_time:2.97696113586[sec]
+iteration : 2
+elapsed_time:4.14545702934[sec]
+iteration : 3
+elapsed_time:5.17722797394[sec]
+iteration : 4
+elapsed_time:6.36609196663[sec]
+iteration : 5
+elapsed_time:7.43518614769[sec]
+iteration : 6
+elapsed_time:8.43309092522[sec]
+iteration : 7
+elapsed_time:10.128950119[sec]
+iteration : 8
+elapsed_time:11.2566580772[sec]
+iteration : 9
+elapsed_time:12.9030570984[sec]
+iteration : 10
+elapsed_time:14.4812240601[sec]
+iteration : 11
+elapsed_time:15.833231926[sec]
+iteration : 12
+elapsed_time:17.5295701027[sec]
+iteration : 13
+elapsed_time:18.8219461441[sec]
+iteration : 14
+elapsed_time:19.6103570461[sec]
+iteration : 15
+elapsed_time:21.200797081[sec]
+iteration : 16
+elapsed_time:22.3450391293[sec]
+iteration : 17
+elapsed_time:23.3523499966[sec]
+iteration : 18
+elapsed_time:24.2188260555[sec]
+iteration : 19
+elapsed_time:25.6766121387[sec]
+iteration : 20
+elapsed_time:26.4461741447[sec]
+iteration : 21
+elapsed_time:28.466999054[sec]
+iteration : 22
+elapsed_time:29.2531280518[sec]
+iteration : 23
+elapsed_time:30.1739051342[sec]
+iteration : 24
+elapsed_time:30.8368649483[sec]
+iteration : 25
+elapsed_time:35.1423640251[sec]
+iteration : 26
+elapsed_time:36.1415610313[sec]
+iteration : 27
+elapsed_time:36.7478780746[sec]
+iteration : 28
+elapsed_time:37.6857850552[sec]
+iteration : 29
+elapsed_time:38.7909171581[sec]
+iteration : 30
+elapsed_time:40.0012080669[sec]
+iteration : 31
+elapsed_time:40.7216279507[sec]
+iteration : 32
+elapsed_time:41.8294651508[sec]
+iteration : 33
+elapsed_time:42.9733891487[sec]
+iteration : 34
+elapsed_time:44.3474979401[sec]
+iteration : 35
+elapsed_time:45.0767331123[sec]
+iteration : 36
+elapsed_time:46.0229649544[sec]
+iteration : 37
+elapsed_time:46.6843049526[sec]
+iteration : 38
+elapsed_time:47.4796800613[sec]
+iteration : 39
+elapsed_time:49.7251191139[sec]
+iteration : 40
+elapsed_time:50.3965830803[sec]
+iteration : 41
+elapsed_time:52.9320430756[sec]
+iteration : 42
+elapsed_time:53.7229390144[sec]
+iteration : 43
+elapsed_time:54.8319759369[sec]
+iteration : 44
+elapsed_time:56.2422540188[sec]
+iteration : 45
+elapsed_time:57.7482881546[sec]
+iteration : 46
+elapsed_time:59.1107120514[sec]
+iteration : 47
+elapsed_time:60.2305660248[sec]
+iteration : 48
+elapsed_time:61.7060379982[sec]
+iteration : 49
+elapsed_time:62.8524069786[sec]
+iteration : 50
+elapsed_time:63.7845759392[sec]
+iteration : 51
+elapsed_time:65.3721430302[sec]
+iteration : 52
+elapsed_time:69.4829750061[sec]
+iteration : 53
+elapsed_time:70.4304180145[sec]
+iteration : 54
+elapsed_time:72.2158529758[sec]
+iteration : 55
+elapsed_time:73.174546957[sec]
+iteration : 56
+elapsed_time:76.3596060276[sec]
+iteration : 57
+elapsed_time:79.0510511398[sec]
+iteration : 58
+elapsed_time:80.2272269726[sec]
+iteration : 59
+elapsed_time:82.7113821507[sec]
+iteration : 60
+elapsed_time:85.0923559666[sec]
+iteration : 61
+elapsed_time:88.3032951355[sec]
+iteration : 62
+elapsed_time:90.8060791492[sec]
+iteration : 63
+elapsed_time:92.6822960377[sec]
+iteration : 64
+elapsed_time:95.2637519836[sec]
+iteration : 65
+elapsed_time:97.6705751419[sec]
+iteration : 66
+elapsed_time:102.484796047[sec]
+iteration : 67
+elapsed_time:104.398932934[sec]
+iteration : 68
+elapsed_time:106.735499144[sec]
+iteration : 69
+elapsed_time:109.392665148[sec]
+iteration : 70
+elapsed_time:111.736029148[sec]
+iteration : 71
+elapsed_time:114.446179152[sec]
+iteration : 72
+elapsed_time:116.936851025[sec]
+iteration : 73
+elapsed_time:120.252295017[sec]
+iteration : 74
+elapsed_time:123.020312071[sec]
+iteration : 75
+elapsed_time:126.053205013[sec]
+iteration : 76
+elapsed_time:127.815343142[sec]
+iteration : 77
+elapsed_time:131.596143007[sec]
+iteration : 78
+elapsed_time:134.110713959[sec]
+iteration : 79
+elapsed_time:137.056008101[sec]
+iteration : 80
+elapsed_time:139.824229956[sec]
+iteration : 81
+elapsed_time:142.876806021[sec]
+iteration : 82
+elapsed_time:145.305154085[sec]
+iteration : 83
+elapsed_time:148.362478018[sec]
+iteration : 84
+elapsed_time:151.605448961[sec]
+iteration : 85
+elapsed_time:153.823255062[sec]
+iteration : 86
+elapsed_time:156.050428152[sec]
+iteration : 87
+elapsed_time:158.059433937[sec]
+iteration : 88
+elapsed_time:160.817153931[sec]
+iteration : 89
+elapsed_time:163.828310966[sec]
+iteration : 90
+elapsed_time:167.934886932[sec]
+iteration : 91
+elapsed_time:170.877128124[sec]
+iteration : 92
+elapsed_time:173.43316412[sec]
+iteration : 93
+elapsed_time:176.162675142[sec]
+iteration : 94
+elapsed_time:178.843605995[sec]
+iteration : 95
+elapsed_time:180.028955936[sec]
+iteration : 96
+elapsed_time:185.82379508[sec]
+iteration : 97
+elapsed_time:190.237448931[sec]
+iteration : 98
+elapsed_time:192.963858128[sec]
+iteration : 99
+elapsed_time:195.873469114[sec]
+iteration : 100
+elapsed_time:198.955071926[sec]
+iteration : 101
+elapsed_time:201.654925108[sec]
+iteration : 102
+elapsed_time:204.911597967[sec]
+iteration : 103
+elapsed_time:207.167912006[sec]
+iteration : 104
+elapsed_time:209.356616974[sec]
+iteration : 105
+elapsed_time:211.852661133[sec]
+iteration : 106
+elapsed_time:214.971306086[sec]
+iteration : 107
+elapsed_time:218.767221928[sec]
+iteration : 108
+elapsed_time:220.542680025[sec]
+iteration : 109
+elapsed_time:223.097264051[sec]
+iteration : 110
+elapsed_time:226.080606937[sec]
+iteration : 111
+elapsed_time:228.254987001[sec]
+iteration : 112
+elapsed_time:230.807163954[sec]
+iteration : 113
+elapsed_time:233.154118061[sec]
+iteration : 114
+elapsed_time:235.286893129[sec]
+iteration : 115
+elapsed_time:238.925251961[sec]
+iteration : 116
+elapsed_time:240.903126001[sec]
+iteration : 117
+elapsed_time:243.572530031[sec]
+iteration : 118
+elapsed_time:246.183189154[sec]
+iteration : 119
+elapsed_time:249.192183971[sec]
+iteration : 120
+elapsed_time:251.317204952[sec]
+iteration : 121
+elapsed_time:255.175106049[sec]
+iteration : 122
+elapsed_time:259.323986053[sec]
+iteration : 123
+elapsed_time:261.497725964[sec]
+iteration : 124
+elapsed_time:263.971667051[sec]
+iteration : 125
+elapsed_time:267.643294096[sec]
+iteration : 126
+elapsed_time:270.581184149[sec]
+iteration : 127
+elapsed_time:273.270858049[sec]
+iteration : 128
+elapsed_time:283.015699148[sec]
+iteration : 129
+elapsed_time:290.224662066[sec]
+iteration : 130
+elapsed_time:293.128345966[sec]
+iteration : 131
+elapsed_time:298.717447996[sec]
+iteration : 132
+elapsed_time:301.746380091[sec]
+iteration : 133
+elapsed_time:304.22507[sec]
+iteration : 134
+elapsed_time:307.262516022[sec]
+iteration : 135
+elapsed_time:308.983165026[sec]
+iteration : 136
+elapsed_time:311.578722[sec]
+iteration : 137
+elapsed_time:314.81131196[sec]
+iteration : 138
+elapsed_time:316.491791964[sec]
+iteration : 139
+elapsed_time:319.152053118[sec]
+iteration : 140
+elapsed_time:321.015717983[sec]
+iteration : 141
+elapsed_time:323.764960051[sec]
+iteration : 142
+elapsed_time:326.360111952[sec]
+iteration : 143
+elapsed_time:329.543874979[sec]
+iteration : 144
+elapsed_time:332.01879406[sec]
+iteration : 145
+elapsed_time:335.511738062[sec]
+iteration : 146
+elapsed_time:337.052690983[sec]
+iteration : 147
+elapsed_time:339.668081045[sec]
+iteration : 148
+elapsed_time:341.439280033[sec]
+iteration : 149
+elapsed_time:344.250689983[sec]
+iteration : 150
+elapsed_time:346.538891077[sec]
+iteration : 151
+elapsed_time:349.696601152[sec]
+iteration : 152
+elapsed_time:351.664684057[sec]
+iteration : 153
+elapsed_time:354.389944077[sec]
+iteration : 154
+elapsed_time:356.734426975[sec]
+iteration : 155
+elapsed_time:359.248157978[sec]
+iteration : 156
+elapsed_time:362.92404294[sec]
+iteration : 157
+elapsed_time:365.403120995[sec]
+iteration : 158
+elapsed_time:367.74251914[sec]
+iteration : 159
+elapsed_time:370.646208048[sec]
+iteration : 160
+elapsed_time:373.504765034[sec]
+iteration : 161
+elapsed_time:376.11976099[sec]
+iteration : 162
+elapsed_time:379.036863089[sec]
+iteration : 163
+elapsed_time:381.992805958[sec]
+iteration : 164
+elapsed_time:384.897340059[sec]
+iteration : 165
+elapsed_time:387.770483017[sec]
+iteration : 166
+elapsed_time:393.206526041[sec]
+iteration : 167
+elapsed_time:396.733525038[sec]
+iteration : 168
+elapsed_time:399.13468504[sec]
+iteration : 169
+elapsed_time:401.868405104[sec]
+iteration : 170
+elapsed_time:404.993821144[sec]
+iteration : 171
+elapsed_time:408.405218124[sec]
+iteration : 172
+elapsed_time:411.62884903[sec]
+iteration : 173
+elapsed_time:414.045418024[sec]
+iteration : 174
+elapsed_time:418.600877047[sec]
+iteration : 175
+elapsed_time:421.866665125[sec]
+iteration : 176
+elapsed_time:426.959408045[sec]
+iteration : 177
+elapsed_time:429.812507153[sec]
+iteration : 178
+elapsed_time:432.254637957[sec]
+iteration : 179
+elapsed_time:434.95529604[sec]
+iteration : 180
+elapsed_time:438.88358593[sec]
+iteration : 181
+elapsed_time:441.580528021[sec]
+iteration : 182
+elapsed_time:444.685451031[sec]
+iteration : 183
+elapsed_time:448.953357935[sec]
+iteration : 184
+elapsed_time:451.05538702[sec]
+iteration : 185
+elapsed_time:453.848788023[sec]
+iteration : 186
+elapsed_time:456.793162107[sec]
+iteration : 187
+elapsed_time:459.203346968[sec]
+iteration : 188
+elapsed_time:463.565304041[sec]
+iteration : 189
+elapsed_time:466.901787996[sec]
+iteration : 190
+elapsed_time:470.054355145[sec]
+iteration : 191
+elapsed_time:472.532604933[sec]
+iteration : 192
+elapsed_time:475.756335974[sec]
+iteration : 193
+elapsed_time:477.772973061[sec]
+iteration : 194
+elapsed_time:481.392535925[sec]
+iteration : 195
+elapsed_time:484.636817932[sec]
+iteration : 196
+elapsed_time:487.504203081[sec]
+iteration : 197
+elapsed_time:490.729635[sec]
+iteration : 198
+elapsed_time:493.320224047[sec]
+iteration : 199
+elapsed_time:496.960598946[sec]
+iteration : 200
+elapsed_time:500.560359955[sec]
+iteration : 201
+elapsed_time:503.493121147[sec]
+iteration : 202
+elapsed_time:506.492459059[sec]
+iteration : 203
+elapsed_time:509.226170063[sec]
+iteration : 204
+elapsed_time:512.277126074[sec]
+iteration : 205
+elapsed_time:514.654840946[sec]
+iteration : 206
+elapsed_time:517.01049304[sec]
+iteration : 207
+elapsed_time:521.012619972[sec]
+iteration : 208
+elapsed_time:524.253036022[sec]
+iteration : 209
+elapsed_time:527.503992081[sec]
+iteration : 210
+elapsed_time:531.224476099[sec]
+iteration : 211
+elapsed_time:533.57456398[sec]
+iteration : 212
+elapsed_time:535.547632933[sec]
+iteration : 213
+elapsed_time:538.408962011[sec]
+iteration : 214
+elapsed_time:541.748625994[sec]
+iteration : 215
+elapsed_time:544.427890062[sec]
+iteration : 216
+elapsed_time:547.183786154[sec]
+iteration : 217
+elapsed_time:550.846913099[sec]
+iteration : 218
+elapsed_time:553.692248106[sec]
+iteration : 219
+elapsed_time:557.330448151[sec]
+iteration : 220
+elapsed_time:559.853409052[sec]
+iteration : 221
+elapsed_time:563.298887968[sec]
+iteration : 222
+elapsed_time:568.017740011[sec]
+iteration : 223
+elapsed_time:572.64142704[sec]
+iteration : 224
+elapsed_time:575.437771082[sec]
+iteration : 225
+elapsed_time:578.238630056[sec]
+iteration : 226
+elapsed_time:580.235105991[sec]
+iteration : 227
+elapsed_time:583.884315014[sec]
+iteration : 228
+elapsed_time:587.525005102[sec]
+iteration : 229
+elapsed_time:592.759184122[sec]
+iteration : 230
+elapsed_time:596.996829033[sec]
+iteration : 231
+elapsed_time:601.861698151[sec]
+iteration : 232
+elapsed_time:606.336805105[sec]
+iteration : 233
+elapsed_time:610.184139013[sec]
+iteration : 234
+elapsed_time:613.065176964[sec]
+iteration : 235
+elapsed_time:615.94084096[sec]
+iteration : 236
+elapsed_time:618.233987093[sec]
+iteration : 237
+elapsed_time:623.629385948[sec]
+iteration : 238
+elapsed_time:627.067695141[sec]
+iteration : 239
+elapsed_time:629.798320055[sec]
+iteration : 240
+elapsed_time:633.096490145[sec]
+iteration : 241
+elapsed_time:636.088247061[sec]
+iteration : 242
+elapsed_time:639.359944105[sec]
+iteration : 243
+elapsed_time:641.958853006[sec]
+iteration : 244
+elapsed_time:645.689818144[sec]
+iteration : 245
+elapsed_time:648.008168936[sec]
+iteration : 246
+elapsed_time:651.609087944[sec]
+iteration : 247
+elapsed_time:654.582355976[sec]
+iteration : 248
+elapsed_time:656.947221994[sec]
+iteration : 249
+elapsed_time:660.154794931[sec]
+iteration : 250
+elapsed_time:663.377444983[sec]
+iteration : 251
+elapsed_time:666.541054964[sec]
+iteration : 252
+elapsed_time:671.295977116[sec]
+iteration : 253
+elapsed_time:676.563040972[sec]
+iteration : 254
+elapsed_time:678.816914082[sec]
+iteration : 255
+elapsed_time:683.449480057[sec]
+iteration : 256
+elapsed_time:686.768777132[sec]
+iteration : 257
+elapsed_time:691.239360094[sec]
+iteration : 258
+elapsed_time:696.296903133[sec]
+iteration : 259
+elapsed_time:701.182426929[sec]
+iteration : 260
+elapsed_time:704.346985102[sec]
+iteration : 261
+elapsed_time:707.725324154[sec]
+iteration : 262
+elapsed_time:712.261600971[sec]
+iteration : 263
+elapsed_time:716.119022131[sec]
+iteration : 264
+elapsed_time:718.40638113[sec]
+iteration : 265
+elapsed_time:722.04825902[sec]
+iteration : 266
+elapsed_time:724.887125015[sec]
+iteration : 267
+elapsed_time:728.889065027[sec]
+iteration : 268
+elapsed_time:731.678545952[sec]
+iteration : 269
+elapsed_time:735.044373989[sec]
+iteration : 270
+elapsed_time:740.640305042[sec]
+iteration : 271
+elapsed_time:744.686739922[sec]
+iteration : 272
+elapsed_time:748.025910139[sec]
+iteration : 273
+elapsed_time:752.055559158[sec]
+iteration : 274
+elapsed_time:754.539778948[sec]
+iteration : 275
+elapsed_time:758.268707037[sec]
+iteration : 276
+elapsed_time:760.879795074[sec]
+iteration : 277
+elapsed_time:764.777048111[sec]
+iteration : 278
+elapsed_time:767.159132004[sec]
+iteration : 279
+elapsed_time:769.861032963[sec]
+iteration : 280
+elapsed_time:773.839072943[sec]
+iteration : 281
+elapsed_time:778.24415493[sec]
+iteration : 282
+elapsed_time:780.600625992[sec]
+iteration : 283
+elapsed_time:785.405382156[sec]
+iteration : 284
+elapsed_time:788.203202963[sec]
+iteration : 285
+elapsed_time:791.502689123[sec]
+iteration : 286
+elapsed_time:795.359921932[sec]
+iteration : 287
+elapsed_time:802.442749023[sec]
+iteration : 288
+elapsed_time:805.001938105[sec]
+iteration : 289
+elapsed_time:807.908851147[sec]
+iteration : 290
+elapsed_time:811.358183146[sec]
+iteration : 291
+elapsed_time:814.401587009[sec]
+iteration : 292
+elapsed_time:817.875445127[sec]
+iteration : 293
+elapsed_time:820.818593025[sec]
+iteration : 294
+elapsed_time:823.912822962[sec]
+iteration : 295
+elapsed_time:826.616680145[sec]
+iteration : 296
+elapsed_time:830.55478096[sec]
+iteration : 297
+elapsed_time:833.992064953[sec]
+iteration : 298
+elapsed_time:837.111330986[sec]
+iteration : 299
+elapsed_time:839.264337063[sec]
+iteration : 300
+elapsed_time:843.337203979[sec]
+iteration : 301
+elapsed_time:845.651330948[sec]
+iteration : 302
+elapsed_time:849.111988068[sec]
+iteration : 303
+elapsed_time:851.582838058[sec]
+iteration : 304
+elapsed_time:855.990107059[sec]
+iteration : 305
+elapsed_time:859.632797956[sec]
+iteration : 306
+elapsed_time:863.394717932[sec]
+iteration : 307
+elapsed_time:865.773180008[sec]
+iteration : 308
+elapsed_time:868.192414999[sec]
+iteration : 309
+elapsed_time:870.368088961[sec]
+iteration : 310
+elapsed_time:872.675836086[sec]
+iteration : 311
+elapsed_time:874.982769966[sec]
+iteration : 312
+elapsed_time:877.589108944[sec]
+iteration : 313
+elapsed_time:880.851660013[sec]
+iteration : 314
+elapsed_time:883.418559074[sec]
+iteration : 315
+elapsed_time:888.725358963[sec]
+iteration : 316
+elapsed_time:892.995857[sec]
+iteration : 317
+elapsed_time:895.918987036[sec]
+iteration : 318
+elapsed_time:906.075645924[sec]
+iteration : 319
+elapsed_time:909.943141937[sec]
+iteration : 320
+elapsed_time:915.147536039[sec]
+iteration : 321
+elapsed_time:919.700376987[sec]
+iteration : 322
+elapsed_time:924.329014063[sec]
+iteration : 323
+elapsed_time:927.261323929[sec]
+iteration : 324
+elapsed_time:930.209170103[sec]
+iteration : 325
+elapsed_time:932.561093092[sec]
+iteration : 326
+elapsed_time:936.299564123[sec]
+iteration : 327
+elapsed_time:939.51951313[sec]
+iteration : 328
+elapsed_time:942.544734955[sec]
+iteration : 329
+elapsed_time:945.234729052[sec]
+iteration : 330
+elapsed_time:948.617248058[sec]
+iteration : 331
+elapsed_time:951.856048107[sec]
+iteration : 332
+elapsed_time:956.123743057[sec]
+iteration : 333
+elapsed_time:958.595387936[sec]
+iteration : 334
+elapsed_time:964.063827038[sec]
+iteration : 335
+elapsed_time:966.813470125[sec]
+iteration : 336
+elapsed_time:970.448014021[sec]
+iteration : 337
+elapsed_time:973.952767134[sec]
+iteration : 338
+elapsed_time:977.080672026[sec]
+iteration : 339
+elapsed_time:979.427901983[sec]
+iteration : 340
+elapsed_time:986.16286993[sec]
+iteration : 341
+elapsed_time:990.087342978[sec]
+iteration : 342
+elapsed_time:994.996400118[sec]
+iteration : 343
+elapsed_time:998.766269922[sec]
+iteration : 344
+elapsed_time:1002.69707608[sec]
+iteration : 345
+elapsed_time:1005.84075713[sec]
+iteration : 346
+elapsed_time:1009.21645498[sec]
+iteration : 347
+elapsed_time:1013.02820802[sec]
+iteration : 348
+elapsed_time:1015.89665198[sec]
+iteration : 349
+elapsed_time:1019.70164895[sec]
+iteration : 350
+elapsed_time:1023.85260201[sec]
+iteration : 351
+elapsed_time:1032.63918304[sec]
+iteration : 352
+elapsed_time:1036.03998804[sec]
+iteration : 353
+elapsed_time:1039.78925896[sec]
+iteration : 354
+elapsed_time:1043.87616301[sec]
+iteration : 355
+elapsed_time:1047.02100992[sec]
+iteration : 356
+elapsed_time:1050.09627414[sec]
+iteration : 357
+elapsed_time:1053.03216505[sec]
+iteration : 358
+elapsed_time:1057.02267909[sec]
+iteration : 359
+elapsed_time:1060.90003896[sec]
+iteration : 360
+elapsed_time:1063.10147214[sec]
+iteration : 361
+elapsed_time:1066.90866399[sec]
+iteration : 362
+elapsed_time:1070.68672109[sec]
+iteration : 363
+elapsed_time:1073.55941701[sec]
+iteration : 364
+elapsed_time:1077.22997499[sec]
+iteration : 365
+elapsed_time:1081.89765596[sec]
+iteration : 366
+elapsed_time:1087.25240898[sec]
+iteration : 367
+elapsed_time:1091.17954302[sec]
+iteration : 368
+elapsed_time:1094.20824814[sec]
+iteration : 369
+elapsed_time:1097.4264431[sec]
+iteration : 370
+elapsed_time:1104.26651001[sec]
+iteration : 371
+elapsed_time:1107.49979401[sec]
+iteration : 372
+elapsed_time:1112.75051594[sec]
+iteration : 373
+elapsed_time:1117.48277307[sec]
+iteration : 374
+elapsed_time:1126.21267295[sec]
+iteration : 375
+elapsed_time:1131.85171914[sec]
+iteration : 376
+elapsed_time:1137.06872797[sec]
+iteration : 377
+elapsed_time:1143.66722202[sec]
+iteration : 378
+elapsed_time:1147.77308202[sec]
+iteration : 379
+elapsed_time:1150.11830306[sec]
+iteration : 380
+elapsed_time:1155.32239413[sec]
+iteration : 381
+elapsed_time:1160.823241[sec]
+iteration : 382
+elapsed_time:1164.77910709[sec]
+iteration : 383
+elapsed_time:1169.51670814[sec]
+iteration : 384
+elapsed_time:1174.90163302[sec]
+iteration : 385
+elapsed_time:1180.60113811[sec]
+iteration : 386
+elapsed_time:1185.01355815[sec]
+iteration : 387
+elapsed_time:1189.33558393[sec]
+iteration : 388
+elapsed_time:1194.5956521[sec]
+iteration : 389
+elapsed_time:1198.20305705[sec]
+iteration : 390
+elapsed_time:1202.63637996[sec]
+iteration : 391
+elapsed_time:1207.44960594[sec]
+iteration : 392
+elapsed_time:1212.06025505[sec]
+iteration : 393
+elapsed_time:1216.02382994[sec]
+iteration : 394
+elapsed_time:1219.20733905[sec]
+iteration : 395
+elapsed_time:1226.057477[sec]
+iteration : 396
+elapsed_time:1230.91642094[sec]
+iteration : 397
+elapsed_time:1233.98633194[sec]
+iteration : 398
+elapsed_time:1238.82548904[sec]
+iteration : 399
+elapsed_time:1243.31194401[sec]
+iteration : 400
+elapsed_time:1246.61684299[sec]
+iteration : 401
+elapsed_time:1249.35201812[sec]
+iteration : 402
+elapsed_time:1251.546489[sec]
+iteration : 403
+elapsed_time:1257.64257908[sec]
+iteration : 404
+elapsed_time:1262.94547701[sec]
+iteration : 405
+elapsed_time:1268.21564102[sec]
+iteration : 406
+elapsed_time:1272.44235897[sec]
+iteration : 407
+elapsed_time:1276.247051[sec]
+iteration : 408
+elapsed_time:1280.97818303[sec]
+iteration : 409
+elapsed_time:1285.51138616[sec]
+iteration : 410
+elapsed_time:1289.35320711[sec]
+iteration : 411
+elapsed_time:1294.65364599[sec]
+iteration : 412
+elapsed_time:1298.09975195[sec]
+iteration : 413
+elapsed_time:1301.57231808[sec]
+iteration : 414
+elapsed_time:1304.00810313[sec]
+iteration : 415
+elapsed_time:1305.89759111[sec]
+iteration : 416
+elapsed_time:1309.84732008[sec]
+iteration : 417
+elapsed_time:1319.32051206[sec]
+iteration : 418
+elapsed_time:1326.84286499[sec]
+iteration : 419
+elapsed_time:1331.96372294[sec]
+iteration : 420
+elapsed_time:1336.92308211[sec]
+iteration : 421
+elapsed_time:1341.20637894[sec]
+iteration : 422
+elapsed_time:1349.34521914[sec]
+iteration : 423
+elapsed_time:1356.61875296[sec]
+iteration : 424
+elapsed_time:1361.57201505[sec]
+iteration : 425
+elapsed_time:1368.49741411[sec]
+iteration : 426
+elapsed_time:1373.36552715[sec]
+iteration : 427
+elapsed_time:1377.50072503[sec]
+iteration : 428
+elapsed_time:1381.65089607[sec]
+iteration : 429
+elapsed_time:1387.26505709[sec]
+iteration : 430
+elapsed_time:1390.55490613[sec]
+iteration : 431
+elapsed_time:1398.48550701[sec]
+iteration : 432
+elapsed_time:1408.81933093[sec]
+iteration : 433
+elapsed_time:1416.53177714[sec]
+iteration : 434
+elapsed_time:1425.67682195[sec]
+iteration : 435
+elapsed_time:1430.57098413[sec]
+iteration : 436
+elapsed_time:1433.98368001[sec]
+iteration : 437
+elapsed_time:1438.68823814[sec]
+iteration : 438
+elapsed_time:1442.87712097[sec]
+iteration : 439
+elapsed_time:1448.21670103[sec]
+iteration : 440
+elapsed_time:1451.40185714[sec]
+iteration : 441
+elapsed_time:1456.63524914[sec]
+iteration : 442
+elapsed_time:1459.649369[sec]
+iteration : 443
+elapsed_time:1464.36465907[sec]
+iteration : 444
+elapsed_time:1469.88533902[sec]
+iteration : 445
+elapsed_time:1472.95773315[sec]
+iteration : 446
+elapsed_time:1478.06672812[sec]
+iteration : 447
+elapsed_time:1486.1324091[sec]
+iteration : 448
+elapsed_time:1491.48101711[sec]
+iteration : 449
+elapsed_time:1495.36155605[sec]
+iteration : 450
+elapsed_time:1499.98091698[sec]
+iteration : 451
+elapsed_time:1506.59335995[sec]
+iteration : 452
+elapsed_time:1513.5000701[sec]
+iteration : 453
+elapsed_time:1518.97592402[sec]
+iteration : 454
+elapsed_time:1522.67269707[sec]
+iteration : 455
+elapsed_time:1527.43918896[sec]
+iteration : 456
+elapsed_time:1530.97571301[sec]
+iteration : 457
+elapsed_time:1534.79188609[sec]
+iteration : 458
+elapsed_time:1539.15005493[sec]
+iteration : 459
+elapsed_time:1545.23625612[sec]
+iteration : 460
+elapsed_time:1547.60528898[sec]
+iteration : 461
+elapsed_time:1552.13102412[sec]
+iteration : 462
+elapsed_time:1554.95409393[sec]
+iteration : 463
+elapsed_time:1558.64754605[sec]
+iteration : 464
+elapsed_time:1563.946455[sec]
+iteration : 465
+elapsed_time:1567.50656104[sec]
+iteration : 466
+elapsed_time:1573.37638307[sec]
+iteration : 467
+elapsed_time:1576.75292015[sec]
+iteration : 468
+elapsed_time:1580.80313897[sec]
+iteration : 469
+elapsed_time:1586.90266609[sec]
+iteration : 470
+elapsed_time:1595.90638399[sec]
+iteration : 471
+elapsed_time:1598.76125312[sec]
+iteration : 472
+elapsed_time:1602.34138513[sec]
+iteration : 473
+elapsed_time:1605.93828011[sec]
+iteration : 474
+elapsed_time:1608.47170305[sec]
+iteration : 475
+elapsed_time:1611.39296913[sec]
+iteration : 476
+elapsed_time:1616.19594693[sec]
+iteration : 477
+elapsed_time:1620.14001608[sec]
+iteration : 478
+elapsed_time:1623.44612598[sec]
+iteration : 479
+elapsed_time:1627.05928493[sec]
+iteration : 480
+elapsed_time:1631.36533093[sec]
+iteration : 481
+elapsed_time:1636.26875305[sec]
+iteration : 482
+elapsed_time:1642.90620112[sec]
+iteration : 483
+elapsed_time:1647.33753705[sec]
+iteration : 484
+elapsed_time:1650.11883998[sec]
+iteration : 485
+elapsed_time:1653.71371508[sec]
+iteration : 486
+elapsed_time:1656.49230599[sec]
+iteration : 487
+elapsed_time:1660.49475598[sec]
+iteration : 488
+elapsed_time:1663.92429209[sec]
+iteration : 489
+elapsed_time:1666.63648009[sec]
+iteration : 490
+elapsed_time:1668.52793503[sec]
+iteration : 491
+elapsed_time:1670.83399796[sec]
+iteration : 492
+elapsed_time:1674.60947299[sec]
+iteration : 493
+elapsed_time:1677.97886205[sec]
+iteration : 494
+elapsed_time:1682.05366015[sec]
+iteration : 495
+elapsed_time:1683.91988492[sec]
+iteration : 496
+elapsed_time:1691.30912113[sec]
+iteration : 497
+elapsed_time:1693.21434093[sec]
+iteration : 498
+elapsed_time:1697.18000412[sec]
+iteration : 499
+elapsed_time:1701.54503298[sec]
+iteration : 500
+elapsed_time:1703.76251101[sec]
+iteration : 501
+elapsed_time:1706.04118109[sec]
+iteration : 502
+elapsed_time:1708.31534505[sec]
+iteration : 503
+elapsed_time:1710.68867707[sec]
+iteration : 504
+elapsed_time:1713.6133461[sec]
+iteration : 505
+elapsed_time:1715.58736396[sec]
+iteration : 506
+elapsed_time:1719.01456809[sec]
+iteration : 507
+elapsed_time:1720.92248893[sec]
+iteration : 508
+elapsed_time:1724.02104402[sec]
+iteration : 509
+elapsed_time:1727.16515803[sec]
+iteration : 510
+elapsed_time:1729.25744605[sec]
+iteration : 511
+elapsed_time:1731.85053396[sec]
+iteration : 512
+elapsed_time:1735.07699394[sec]
+iteration : 513
+elapsed_time:1747.1127131[sec]
+iteration : 514
+elapsed_time:1749.39712906[sec]
+iteration : 515
+elapsed_time:1756.23983812[sec]
+iteration : 516
+elapsed_time:1758.61650205[sec]
+iteration : 517
+elapsed_time:1760.0204401[sec]
+iteration : 518
+elapsed_time:1763.79157114[sec]
+iteration : 519
+elapsed_time:1765.2131021[sec]
+iteration : 520
+elapsed_time:1767.56500316[sec]
+iteration : 521
+elapsed_time:1769.67046213[sec]
+iteration : 522
+elapsed_time:1771.42344713[sec]
+iteration : 523
+elapsed_time:1774.16964412[sec]
+iteration : 524
+elapsed_time:1776.83102012[sec]
+iteration : 525
+elapsed_time:1779.93966007[sec]
+iteration : 526
+elapsed_time:1781.86756301[sec]
+iteration : 527
+elapsed_time:1783.83581805[sec]
+iteration : 528
+elapsed_time:1785.95646596[sec]
+iteration : 529
+elapsed_time:1788.61198997[sec]
+iteration : 530
+elapsed_time:1791.02652407[sec]
+iteration : 531
+elapsed_time:1793.28006005[sec]
+iteration : 532
+elapsed_time:1797.14666295[sec]
+iteration : 533
+elapsed_time:1800.87810802[sec]
+iteration : 534
+elapsed_time:1802.99064803[sec]
+iteration : 535
+elapsed_time:1806.45646501[sec]
+iteration : 536
+elapsed_time:1807.91153502[sec]
+iteration : 537
+elapsed_time:1810.01295996[sec]
+iteration : 538
+elapsed_time:1812.38895297[sec]
+iteration : 539
+elapsed_time:1816.17528701[sec]
+iteration : 540
+elapsed_time:1819.71204495[sec]
+iteration : 541
+elapsed_time:1821.23559809[sec]
+iteration : 542
+elapsed_time:1824.52826715[sec]
+iteration : 543
+elapsed_time:1827.07240915[sec]
+iteration : 544
+elapsed_time:1832.69509315[sec]
+iteration : 545
+elapsed_time:1834.03093505[sec]
+iteration : 546
+elapsed_time:1842.39361095[sec]
+iteration : 547
+elapsed_time:1844.57799911[sec]
+iteration : 548
+elapsed_time:1846.85234499[sec]
+iteration : 549
+elapsed_time:1849.04024816[sec]
+iteration : 550
+elapsed_time:1851.77729392[sec]
+iteration : 551
+elapsed_time:1853.38127804[sec]
+iteration : 552
+elapsed_time:1855.68110895[sec]
+iteration : 553
+elapsed_time:1859.01477194[sec]
+iteration : 554
+elapsed_time:1862.68928909[sec]
+iteration : 555
+elapsed_time:1868.03092504[sec]
+iteration : 556
+elapsed_time:1870.09933496[sec]
+iteration : 557
+elapsed_time:1873.19779706[sec]
+iteration : 558
+elapsed_time:1875.72789907[sec]
+iteration : 559
+elapsed_time:1879.42411399[sec]
+iteration : 560
+elapsed_time:1881.40383005[sec]
+iteration : 561
+elapsed_time:1882.54047799[sec]
+iteration : 562
+elapsed_time:1884.856915[sec]
+iteration : 563
+elapsed_time:1890.58699012[sec]
+iteration : 564
+elapsed_time:1892.02415109[sec]
+iteration : 565
+elapsed_time:1894.84239197[sec]
+iteration : 566
+elapsed_time:1895.96554708[sec]
+iteration : 567
+elapsed_time:1898.87329006[sec]
+iteration : 568
+elapsed_time:1901.15037394[sec]
+iteration : 569
+elapsed_time:1902.90401101[sec]
+iteration : 570
+elapsed_time:1906.08894706[sec]
+iteration : 571
+elapsed_time:1909.15822697[sec]
+iteration : 572
+elapsed_time:1914.41065407[sec]
+iteration : 573
+elapsed_time:1919.97489214[sec]
+iteration : 574
+elapsed_time:1922.23207593[sec]
+iteration : 575
+elapsed_time:1926.0403111[sec]
+iteration : 576
+elapsed_time:1928.359689[sec]
+iteration : 577
+elapsed_time:1931.22685003[sec]
+iteration : 578
+elapsed_time:1932.86570001[sec]
+iteration : 579
+elapsed_time:1935.26457[sec]
+iteration : 580
+elapsed_time:1936.57348013[sec]
+iteration : 581
+elapsed_time:1939.73501611[sec]
+iteration : 582
+elapsed_time:1941.61482[sec]
+iteration : 583
+elapsed_time:1945.21226907[sec]
+iteration : 584
+elapsed_time:1946.72090793[sec]
+iteration : 585
+elapsed_time:1948.65261912[sec]
+iteration : 586
+elapsed_time:1950.79317498[sec]
+iteration : 587
+elapsed_time:1952.7399261[sec]
+iteration : 588
+elapsed_time:1954.03813195[sec]
+iteration : 589
+elapsed_time:1956.88120604[sec]
+iteration : 590
+elapsed_time:1958.65744615[sec]
+iteration : 591
+elapsed_time:1961.32150602[sec]
+iteration : 592
+elapsed_time:1962.65267396[sec]
+iteration : 593
+elapsed_time:1963.72093892[sec]
+iteration : 594
+elapsed_time:1965.71304607[sec]
+iteration : 595
+elapsed_time:1968.49546599[sec]
+iteration : 596
+elapsed_time:1969.86918497[sec]
+iteration : 597
+elapsed_time:1972.5425601[sec]
+iteration : 598
+elapsed_time:1974.10348201[sec]
+iteration : 599
+elapsed_time:1975.75263095[sec]
+iteration : 600
+elapsed_time:1976.76612115[sec]
+iteration : 601
+elapsed_time:1978.39134502[sec]
+iteration : 602
+elapsed_time:1979.90464997[sec]
+iteration : 603
+elapsed_time:1981.81901312[sec]
+iteration : 604
+elapsed_time:1983.18475914[sec]
+iteration : 605
+elapsed_time:1985.41326404[sec]
+iteration : 606
+elapsed_time:1987.42551899[sec]
+iteration : 607
+elapsed_time:1988.99491215[sec]
+iteration : 608
+elapsed_time:1990.25560498[sec]
+iteration : 609
+elapsed_time:1992.38457799[sec]
+iteration : 610
+elapsed_time:1994.21226096[sec]
+iteration : 611
+elapsed_time:1996.42432594[sec]
+iteration : 612
+elapsed_time:1998.60244608[sec]
+iteration : 613
+elapsed_time:2000.65677714[sec]
+iteration : 614
+elapsed_time:2002.58492613[sec]
+iteration : 615
+elapsed_time:2004.62450194[sec]
+iteration : 616
+elapsed_time:2006.30023408[sec]
+iteration : 617
+elapsed_time:2008.10665703[sec]
+iteration : 618
+elapsed_time:2009.72421813[sec]
+iteration : 619
+elapsed_time:2011.42339706[sec]
+iteration : 620
+elapsed_time:2012.76851416[sec]
+iteration : 621
+elapsed_time:2013.85568905[sec]
+iteration : 622
+elapsed_time:2016.02418113[sec]
+iteration : 623
+elapsed_time:2017.71306396[sec]
+iteration : 624
+elapsed_time:2019.83333898[sec]
+iteration : 625
+elapsed_time:2020.74340415[sec]
+iteration : 626
+elapsed_time:2022.79726911[sec]
+iteration : 627
+elapsed_time:2023.86654806[sec]
+iteration : 628
+elapsed_time:2025.41302299[sec]
+iteration : 629
+elapsed_time:2027.11411595[sec]
+iteration : 630
+elapsed_time:2028.97977614[sec]
+iteration : 631
+elapsed_time:2029.93111801[sec]
+iteration : 632
+elapsed_time:2031.1219871[sec]
+iteration : 633
+elapsed_time:2033.36107397[sec]
+iteration : 634
+elapsed_time:2035.34614015[sec]
+iteration : 635
+elapsed_time:2037.51133704[sec]
+iteration : 636
+elapsed_time:2039.81038094[sec]
+iteration : 637
+elapsed_time:2041.69159913[sec]
+iteration : 638
+elapsed_time:2043.77123308[sec]
+iteration : 639
+elapsed_time:2045.17518616[sec]
+iteration : 640
+elapsed_time:2047.00754309[sec]
+iteration : 641
+elapsed_time:2048.67333102[sec]
+iteration : 642
+elapsed_time:2049.85843015[sec]
+iteration : 643
+elapsed_time:2054.55975413[sec]
+iteration : 644
+elapsed_time:2056.18702507[sec]
+iteration : 645
+elapsed_time:2057.75029993[sec]
+iteration : 646
+elapsed_time:2059.256706[sec]
+iteration : 647
+elapsed_time:2065.48530602[sec]
+iteration : 648
+elapsed_time:2070.9162991[sec]
+iteration : 649
+elapsed_time:2079.17458415[sec]
+iteration : 650
+elapsed_time:2080.73474908[sec]
+iteration : 651
+elapsed_time:2083.79721093[sec]
+iteration : 652
+elapsed_time:2086.00123811[sec]
+iteration : 653
+elapsed_time:2087.75661707[sec]
+iteration : 654
+elapsed_time:2089.06131315[sec]
+iteration : 655
+elapsed_time:2090.70032597[sec]
+iteration : 656
+elapsed_time:2092.28618503[sec]
+iteration : 657
+elapsed_time:2093.550282[sec]
+iteration : 658
+elapsed_time:2095.5008831[sec]
+iteration : 659
+elapsed_time:2097.23924899[sec]
+iteration : 660
+elapsed_time:2098.4228971[sec]
+iteration : 661
+elapsed_time:2100.34392214[sec]
+iteration : 662
+elapsed_time:2101.3435421[sec]
+iteration : 663
+elapsed_time:2103.4149611[sec]
+iteration : 664
+elapsed_time:2104.52241492[sec]
+iteration : 665
+elapsed_time:2106.35669899[sec]
+iteration : 666
+elapsed_time:2107.44907498[sec]
+iteration : 667
+elapsed_time:2109.3659761[sec]
+iteration : 668
+elapsed_time:2110.47718906[sec]
+iteration : 669
+elapsed_time:2112.00255609[sec]
+iteration : 670
+elapsed_time:2114.22326112[sec]
+iteration : 671
+elapsed_time:2116.12181997[sec]
+iteration : 672
+elapsed_time:2118.15162802[sec]
+iteration : 673
+elapsed_time:2119.20233202[sec]
+iteration : 674
+elapsed_time:2121.31267905[sec]
+iteration : 675
+elapsed_time:2123.42876101[sec]
+iteration : 676
+elapsed_time:2125.54844213[sec]
+iteration : 677
+elapsed_time:2127.35314798[sec]
+iteration : 678
+elapsed_time:2128.73504806[sec]
+iteration : 679
+elapsed_time:2130.30587006[sec]
+iteration : 680
+elapsed_time:2132.19895101[sec]
+iteration : 681
+elapsed_time:2134.17343807[sec]
+iteration : 682
+elapsed_time:2135.89659309[sec]
+iteration : 683
+elapsed_time:2138.39735913[sec]
+iteration : 684
+elapsed_time:2140.39165306[sec]
+iteration : 685
+elapsed_time:2142.0325501[sec]
+iteration : 686
+elapsed_time:2143.69010615[sec]
+iteration : 687
+elapsed_time:2145.99307299[sec]
+iteration : 688
+elapsed_time:2148.34443903[sec]
+iteration : 689
+elapsed_time:2150.08727312[sec]
+iteration : 690
+elapsed_time:2151.99930096[sec]
+iteration : 691
+elapsed_time:2153.41040707[sec]
+iteration : 692
+elapsed_time:2154.9327631[sec]
+iteration : 693
+elapsed_time:2156.16752005[sec]
+iteration : 694
+elapsed_time:2159.70175815[sec]
+iteration : 695
+elapsed_time:2161.51686907[sec]
+iteration : 696
+elapsed_time:2163.88216901[sec]
+iteration : 697
+elapsed_time:2165.45004416[sec]
+iteration : 698
+elapsed_time:2167.40837407[sec]
+iteration : 699
+elapsed_time:2169.66817307[sec]
+iteration : 700
+elapsed_time:2171.79774499[sec]
+iteration : 701
+elapsed_time:2173.41418314[sec]
+iteration : 702
+elapsed_time:2174.33326411[sec]
+iteration : 703
+elapsed_time:2176.05194306[sec]
+iteration : 704
+elapsed_time:2176.72104096[sec]
+iteration : 705
+elapsed_time:2178.54124808[sec]
+iteration : 706
+elapsed_time:2179.99919915[sec]
+iteration : 707
+elapsed_time:2182.00923014[sec]
+iteration : 708
+elapsed_time:2183.92151713[sec]
+iteration : 709
+elapsed_time:2186.03395915[sec]
+iteration : 710
+elapsed_time:2187.87463403[sec]
+iteration : 711
+elapsed_time:2190.17102003[sec]
+iteration : 712
+elapsed_time:2191.87302494[sec]
+iteration : 713
+elapsed_time:2193.742414[sec]
+iteration : 714
+elapsed_time:2195.12522292[sec]
+iteration : 715
+elapsed_time:2197.23443198[sec]
+iteration : 716
+elapsed_time:2198.91478705[sec]
+iteration : 717
+elapsed_time:2200.56087494[sec]
+iteration : 718
+elapsed_time:2202.45585513[sec]
+iteration : 719
+elapsed_time:2204.10135698[sec]
+iteration : 720
+elapsed_time:2205.08918595[sec]
+iteration : 721
+elapsed_time:2207.57239008[sec]
+iteration : 722
+elapsed_time:2209.41753101[sec]
+iteration : 723
+elapsed_time:2210.92396903[sec]
+iteration : 724
+elapsed_time:2213.18114996[sec]
+iteration : 725
+elapsed_time:2215.13926411[sec]
+iteration : 726
+elapsed_time:2217.03648901[sec]
+iteration : 727
+elapsed_time:2218.51939893[sec]
+iteration : 728
+elapsed_time:2220.62943912[sec]
+iteration : 729
+elapsed_time:2222.53725696[sec]
+iteration : 730
+elapsed_time:2227.79306293[sec]
+iteration : 731
+elapsed_time:2231.07782793[sec]
+iteration : 732
+elapsed_time:2233.34762096[sec]
+iteration : 733
+elapsed_time:2235.5343411[sec]
+iteration : 734
+elapsed_time:2236.55962396[sec]
+iteration : 735
+elapsed_time:2238.56363201[sec]
+iteration : 736
+elapsed_time:2240.53665495[sec]
+iteration : 737
+elapsed_time:2243.25575709[sec]
+iteration : 738
+elapsed_time:2246.12047601[sec]
+iteration : 739
+elapsed_time:2248.24697614[sec]
+iteration : 740
+elapsed_time:2250.89477611[sec]
+iteration : 741
+elapsed_time:2253.18705606[sec]
+iteration : 742
+elapsed_time:2255.28875899[sec]
+iteration : 743
+elapsed_time:2257.74674201[sec]
+iteration : 744
+elapsed_time:2260.83848405[sec]
+iteration : 745
+elapsed_time:2262.12005711[sec]
+iteration : 746
+elapsed_time:2264.48795414[sec]
+iteration : 747
+elapsed_time:2266.63643193[sec]
+iteration : 748
+elapsed_time:2267.91332603[sec]
+iteration : 749
+elapsed_time:2270.13299799[sec]
+iteration : 750
+elapsed_time:2271.91498804[sec]
+iteration : 751
+elapsed_time:2273.75588107[sec]
+iteration : 752
+elapsed_time:2275.5152421[sec]
+iteration : 753
+elapsed_time:2277.87543297[sec]
+iteration : 754
+elapsed_time:2280.1320231[sec]
+iteration : 755
+elapsed_time:2282.00268197[sec]
+iteration : 756
+elapsed_time:2284.00863504[sec]
+iteration : 757
+elapsed_time:2286.30533814[sec]
+iteration : 758
+elapsed_time:2290.85708213[sec]
+iteration : 759
+elapsed_time:2292.54787207[sec]
+iteration : 760
+elapsed_time:2293.891119[sec]
+iteration : 761
+elapsed_time:2296.42424011[sec]
+iteration : 762
+elapsed_time:2298.86301303[sec]
+iteration : 763
+elapsed_time:2301.33306193[sec]
+iteration : 764
+elapsed_time:2303.04211998[sec]
+iteration : 765
+elapsed_time:2304.61290908[sec]
+iteration : 766
+elapsed_time:2307.12342215[sec]
+iteration : 767
+elapsed_time:2309.42278194[sec]
+iteration : 768
+elapsed_time:2312.13719511[sec]
+iteration : 769
+elapsed_time:2314.57253194[sec]
+iteration : 770
+elapsed_time:2316.63095212[sec]
+iteration : 771
+elapsed_time:2318.50739312[sec]
+iteration : 772
+elapsed_time:2319.99064112[sec]
+iteration : 773
+elapsed_time:2322.35390997[sec]
+iteration : 774
+elapsed_time:2324.41843104[sec]
+iteration : 775
+elapsed_time:2326.161659[sec]
+iteration : 776
+elapsed_time:2328.16363692[sec]
+iteration : 777
+elapsed_time:2329.74886703[sec]
+iteration : 778
+elapsed_time:2331.90320015[sec]
+iteration : 779
+elapsed_time:2333.31219196[sec]
+iteration : 780
+elapsed_time:2335.49153805[sec]
+iteration : 781
+elapsed_time:2337.70586395[sec]
+iteration : 782
+elapsed_time:2339.4280591[sec]
+iteration : 783
+elapsed_time:2342.02315497[sec]
+iteration : 784
+elapsed_time:2344.31270313[sec]
+iteration : 785
+elapsed_time:2345.75671697[sec]
+iteration : 786
+elapsed_time:2348.9195261[sec]
+iteration : 787
+elapsed_time:2351.80101204[sec]
+iteration : 788
+elapsed_time:2353.35683298[sec]
+iteration : 789
+elapsed_time:2355.97720909[sec]
+iteration : 790
+elapsed_time:2358.34490204[sec]
+iteration : 791
+elapsed_time:2360.78745699[sec]
+iteration : 792
+elapsed_time:2362.61729002[sec]
+iteration : 793
+elapsed_time:2365.18033504[sec]
+iteration : 794
+elapsed_time:2366.81163001[sec]
+iteration : 795
+elapsed_time:2369.99921703[sec]
+iteration : 796
+elapsed_time:2372.22668099[sec]
+iteration : 797
+elapsed_time:2374.42656708[sec]
+iteration : 798
+elapsed_time:2376.25906205[sec]
+iteration : 799
+elapsed_time:2378.31903696[sec]
+iteration : 800
+elapsed_time:2380.44738102[sec]
+iteration : 801
+elapsed_time:2382.52143502[sec]
+iteration : 802
+elapsed_time:2385.05629706[sec]
+iteration : 803
+elapsed_time:2387.63401198[sec]
+iteration : 804
+elapsed_time:2389.75554609[sec]
+iteration : 805
+elapsed_time:2391.44289303[sec]
+iteration : 806
+elapsed_time:2393.0869391[sec]
+iteration : 807
+elapsed_time:2396.608356[sec]
+iteration : 808
+elapsed_time:2398.46915793[sec]
+iteration : 809
+elapsed_time:2400.12822795[sec]
+iteration : 810
+elapsed_time:2402.08184409[sec]
+iteration : 811
+elapsed_time:2404.13297915[sec]
+iteration : 812
+elapsed_time:2406.16554499[sec]
+iteration : 813
+elapsed_time:2408.74754095[sec]
+iteration : 814
+elapsed_time:2410.75321507[sec]
+iteration : 815
+elapsed_time:2412.11550903[sec]
+iteration : 816
+elapsed_time:2414.25912213[sec]
+iteration : 817
+elapsed_time:2417.77829909[sec]
+iteration : 818
+elapsed_time:2419.8930161[sec]
+iteration : 819
+elapsed_time:2422.52144694[sec]
+iteration : 820
+elapsed_time:2424.4493041[sec]
+iteration : 821
+elapsed_time:2426.33321214[sec]
+iteration : 822
+elapsed_time:2428.30177593[sec]
+iteration : 823
+elapsed_time:2429.77645707[sec]
+iteration : 824
+elapsed_time:2432.19956899[sec]
+iteration : 825
+elapsed_time:2435.05673313[sec]
+iteration : 826
+elapsed_time:2437.78729916[sec]
+iteration : 827
+elapsed_time:2439.80685496[sec]
+iteration : 828
+elapsed_time:2441.34936213[sec]
+iteration : 829
+elapsed_time:2443.45409894[sec]
+iteration : 830
+elapsed_time:2445.38422704[sec]
+iteration : 831
+elapsed_time:2446.36101294[sec]
+iteration : 832
+elapsed_time:2448.11072898[sec]
+iteration : 833
+elapsed_time:2449.75598812[sec]
+iteration : 834
+elapsed_time:2451.089921[sec]
+iteration : 835
+elapsed_time:2452.06510115[sec]
+iteration : 836
+elapsed_time:2453.95838594[sec]
+iteration : 837
+elapsed_time:2456.11632013[sec]
+iteration : 838
+elapsed_time:2457.44813299[sec]
+iteration : 839
+elapsed_time:2458.68947601[sec]
+iteration : 840
+elapsed_time:2461.98598409[sec]
+iteration : 841
+elapsed_time:2463.41116905[sec]
+iteration : 842
+elapsed_time:2464.94899392[sec]
+iteration : 843
+elapsed_time:2465.84471703[sec]
+iteration : 844
+elapsed_time:2467.44764113[sec]
+iteration : 845
+elapsed_time:2470.56183314[sec]
+iteration : 846
+elapsed_time:2471.65382409[sec]
+iteration : 847
+elapsed_time:2473.35739708[sec]
+iteration : 848
+elapsed_time:2475.39776015[sec]
+iteration : 849
+elapsed_time:2476.97958612[sec]
+iteration : 850
+elapsed_time:2478.637537[sec]
+iteration : 851
+elapsed_time:2480.34503603[sec]
+iteration : 852
+elapsed_time:2482.73038793[sec]
+iteration : 853
+elapsed_time:2484.46501803[sec]
+iteration : 854
+elapsed_time:2486.08553314[sec]
+iteration : 855
+elapsed_time:2487.96171308[sec]
+iteration : 856
+elapsed_time:2490.15627193[sec]
+iteration : 857
+elapsed_time:2491.71251106[sec]
+iteration : 858
+elapsed_time:2492.89921904[sec]
+iteration : 859
+elapsed_time:2494.98641801[sec]
+iteration : 860
+elapsed_time:2495.86149812[sec]
+iteration : 861
+elapsed_time:2497.34608412[sec]
+iteration : 862
+elapsed_time:2498.72789097[sec]
+iteration : 863
+elapsed_time:2500.08310795[sec]
+iteration : 864
+elapsed_time:2501.44835114[sec]
+iteration : 865
+elapsed_time:2503.56468201[sec]
+iteration : 866
+elapsed_time:2504.80697298[sec]
+iteration : 867
+elapsed_time:2506.01240993[sec]
+iteration : 868
+elapsed_time:2507.40004396[sec]
+iteration : 869
+elapsed_time:2509.83760309[sec]
+iteration : 870
+elapsed_time:2512.23663211[sec]
+iteration : 871
+elapsed_time:2513.66327[sec]
+iteration : 872
+elapsed_time:2519.99348402[sec]
+iteration : 873
+elapsed_time:2522.24639511[sec]
+iteration : 874
+elapsed_time:2524.24320602[sec]
+iteration : 875
+elapsed_time:2525.63384295[sec]
+iteration : 876
+elapsed_time:2529.15494895[sec]
+iteration : 877
+elapsed_time:2531.07899213[sec]
+iteration : 878
+elapsed_time:2532.49183011[sec]
+iteration : 879
+elapsed_time:2534.64302206[sec]
+iteration : 880
+elapsed_time:2536.04372597[sec]
+iteration : 881
+elapsed_time:2538.02406001[sec]
+iteration : 882
+elapsed_time:2539.70178103[sec]
+iteration : 883
+elapsed_time:2541.50254297[sec]
+iteration : 884
+elapsed_time:2542.83311009[sec]
+iteration : 885
+elapsed_time:2544.58354211[sec]
+iteration : 886
+elapsed_time:2546.32536697[sec]
+iteration : 887
+elapsed_time:2549.05619597[sec]
+iteration : 888
+elapsed_time:2550.72302294[sec]
+iteration : 889
+elapsed_time:2553.10292315[sec]
+iteration : 890
+elapsed_time:2554.77772403[sec]
+iteration : 891
+elapsed_time:2556.67757607[sec]
+iteration : 892
+elapsed_time:2558.01457596[sec]
+iteration : 893
+elapsed_time:2559.80183601[sec]
+iteration : 894
+elapsed_time:2562.00889492[sec]
+iteration : 895
+elapsed_time:2564.57653999[sec]
+iteration : 896
+elapsed_time:2565.87723994[sec]
+iteration : 897
+elapsed_time:2569.072402[sec]
+iteration : 898
+elapsed_time:2571.24447799[sec]
+iteration : 899
+elapsed_time:2572.62692714[sec]
+iteration : 900
+elapsed_time:2574.24220896[sec]
+iteration : 901
+elapsed_time:2576.08945107[sec]
+iteration : 902
+elapsed_time:2577.70746708[sec]
+iteration : 903
+elapsed_time:2579.49664593[sec]
+iteration : 904
+elapsed_time:2581.12958813[sec]
+iteration : 905
+elapsed_time:2583.06280613[sec]
+iteration : 906
+elapsed_time:2585.00262308[sec]
+iteration : 907
+elapsed_time:2586.55571914[sec]
+iteration : 908
+elapsed_time:2587.71144915[sec]
+iteration : 909
+elapsed_time:2589.11528111[sec]
+iteration : 910
+elapsed_time:2589.99436593[sec]
+iteration : 911
+elapsed_time:2591.66568708[sec]
+iteration : 912
+elapsed_time:2592.84603214[sec]
+iteration : 913
+elapsed_time:2594.366992[sec]
+iteration : 914
+elapsed_time:2595.23385715[sec]
+iteration : 915
+elapsed_time:2596.33206701[sec]
+iteration : 916
+elapsed_time:2597.32990408[sec]
+iteration : 917
+elapsed_time:2598.58811402[sec]
+iteration : 918
+elapsed_time:2602.05963993[sec]
+iteration : 919
+elapsed_time:2603.23724699[sec]
+iteration : 920
+elapsed_time:2604.32593703[sec]
+iteration : 921
+elapsed_time:2605.57286501[sec]
+iteration : 922
+elapsed_time:2606.79813814[sec]
+iteration : 923
+elapsed_time:2607.79635501[sec]
+iteration : 924
+elapsed_time:2609.40525007[sec]
+iteration : 925
+elapsed_time:2610.78395295[sec]
+iteration : 926
+elapsed_time:2612.47883201[sec]
+iteration : 927
+elapsed_time:2613.16357994[sec]
+iteration : 928
+elapsed_time:2614.83200598[sec]
+iteration : 929
+elapsed_time:2615.67719293[sec]
+iteration : 930
+elapsed_time:2616.98802805[sec]
+iteration : 931
+elapsed_time:2618.16022396[sec]
+iteration : 932
+elapsed_time:2619.11053801[sec]
+iteration : 933
+elapsed_time:2620.06062198[sec]
+iteration : 934
+elapsed_time:2621.32755494[sec]
+iteration : 935
+elapsed_time:2622.6963141[sec]
+iteration : 936
+elapsed_time:2624.19507408[sec]
+iteration : 937
+elapsed_time:2625.33026695[sec]
+iteration : 938
+elapsed_time:2626.19056296[sec]
+iteration : 939
+elapsed_time:2627.49991393[sec]
+iteration : 940
+elapsed_time:2628.89063311[sec]
+iteration : 941
+elapsed_time:2629.94148898[sec]
+iteration : 942
+elapsed_time:2631.28126192[sec]
+iteration : 943
+elapsed_time:2632.23962593[sec]
+iteration : 944
+elapsed_time:2633.87801313[sec]
+iteration : 945
+elapsed_time:2634.81979799[sec]
+iteration : 946
+elapsed_time:2635.86010599[sec]
+iteration : 947
+elapsed_time:2636.97740006[sec]
+iteration : 948
+elapsed_time:2638.23393703[sec]
+iteration : 949
+elapsed_time:2638.86312914[sec]
+iteration : 950
+elapsed_time:2641.05805898[sec]
+iteration : 951
+elapsed_time:2644.64644504[sec]
+iteration : 952
+elapsed_time:2646.01473808[sec]
+iteration : 953
+elapsed_time:2648.39628506[sec]
+iteration : 954
+elapsed_time:2649.68839812[sec]
+iteration : 955
+elapsed_time:2651.22143412[sec]
+iteration : 956
+elapsed_time:2652.68020797[sec]
+iteration : 957
+elapsed_time:2654.23847294[sec]
+iteration : 958
+elapsed_time:2655.79734397[sec]
+iteration : 959
+elapsed_time:2657.44111896[sec]
+iteration : 960
+elapsed_time:2659.230021[sec]
+iteration : 961
+elapsed_time:2660.80526805[sec]
+iteration : 962
+elapsed_time:2661.95572495[sec]
+iteration : 963
+elapsed_time:2663.81785011[sec]
+iteration : 964
+elapsed_time:2665.27401805[sec]
+iteration : 965
+elapsed_time:2667.00942707[sec]
+iteration : 966
+elapsed_time:2668.58725715[sec]
+iteration : 967
+elapsed_time:2670.87330008[sec]
+iteration : 968
+elapsed_time:2672.37070894[sec]
+iteration : 969
+elapsed_time:2673.78642797[sec]
+iteration : 970
+elapsed_time:2675.22266698[sec]
+iteration : 971
+elapsed_time:2676.84977508[sec]
+iteration : 972
+elapsed_time:2678.09419203[sec]
+iteration : 973
+elapsed_time:2679.43042302[sec]
+iteration : 974
+elapsed_time:2684.12801409[sec]
+iteration : 975
+elapsed_time:2685.72250414[sec]
+iteration : 976
+elapsed_time:2688.54958701[sec]
+iteration : 977
+elapsed_time:2689.77523994[sec]
+iteration : 978
+elapsed_time:2690.99738002[sec]
+iteration : 979
+elapsed_time:2692.73621106[sec]
+iteration : 980
+elapsed_time:2694.32404208[sec]
+iteration : 981
+elapsed_time:2698.80807996[sec]
+iteration : 982
+elapsed_time:2703.50316095[sec]
+iteration : 983
+elapsed_time:2704.61023998[sec]
+iteration : 984
+elapsed_time:2705.99309206[sec]
+iteration : 985
+elapsed_time:2707.41879702[sec]
+iteration : 986
+elapsed_time:2709.10575914[sec]
+iteration : 987
+elapsed_time:2710.54243708[sec]
+iteration : 988
+elapsed_time:2712.42585492[sec]
+iteration : 989
+elapsed_time:2714.08965898[sec]
+iteration : 990
+elapsed_time:2715.59537911[sec]
+iteration : 991
+elapsed_time:2717.04579997[sec]
+iteration : 992
+elapsed_time:2718.2643311[sec]
+iteration : 993
+elapsed_time:2719.43747807[sec]
+iteration : 994
+elapsed_time:2720.95062494[sec]
+iteration : 995
+elapsed_time:2722.10229707[sec]
+iteration : 996
+elapsed_time:2723.39304399[sec]
+iteration : 997
+elapsed_time:2724.70944905[sec]
+iteration : 998
+elapsed_time:2726.04719806[sec]
+iteration : 999
+elapsed_time:2727.59313703[sec]
+iteration : 1000
+elapsed_time:2728.9546001[sec]
+iteration : 1001
+elapsed_time:2730.18842316[sec]
+iteration : 1002
+elapsed_time:2731.505826[sec]
+iteration : 1003
+elapsed_time:2732.81112313[sec]
+iteration : 1004
+elapsed_time:2734.49263096[sec]
+iteration : 1005
+elapsed_time:2736.78326106[sec]
+iteration : 1006
+elapsed_time:2738.51230597[sec]
+iteration : 1007
+elapsed_time:2740.13372612[sec]
+iteration : 1008
+elapsed_time:2741.54696894[sec]
+iteration : 1009
+elapsed_time:2743.11364102[sec]
+iteration : 1010
+elapsed_time:2744.35636616[sec]
+iteration : 1011
+elapsed_time:2746.17657495[sec]
+iteration : 1012
+elapsed_time:2747.88970494[sec]
+iteration : 1013
+elapsed_time:2750.58212996[sec]
+iteration : 1014
+elapsed_time:2751.37036395[sec]
+iteration : 1015
+elapsed_time:2754.30927205[sec]
+iteration : 1016
+elapsed_time:2755.77906203[sec]
+iteration : 1017
+elapsed_time:2757.18734312[sec]
+iteration : 1018
+elapsed_time:2759.12691808[sec]
+iteration : 1019
+elapsed_time:2760.57284212[sec]
+iteration : 1020
+elapsed_time:2762.39669394[sec]
+iteration : 1021
+elapsed_time:2764.62267613[sec]
+iteration : 1022
+elapsed_time:2766.99808908[sec]
+iteration : 1023
+elapsed_time:2768.40711212[sec]
+iteration : 1024
+elapsed_time:2770.35296392[sec]
+iteration : 1025
+elapsed_time:2772.53049612[sec]
+iteration : 1026
+elapsed_time:2773.75498605[sec]
+iteration : 1027
+elapsed_time:2774.92554498[sec]
+iteration : 1028
+elapsed_time:2776.45224905[sec]
+iteration : 1029
+elapsed_time:2779.00696611[sec]
+iteration : 1030
+elapsed_time:2780.54596114[sec]
+iteration : 1031
+elapsed_time:2782.01809001[sec]
+iteration : 1032
+elapsed_time:2783.60950708[sec]
+iteration : 1033
+elapsed_time:2784.987885[sec]
+iteration : 1034
+elapsed_time:2786.76762295[sec]
+iteration : 1035
+elapsed_time:2788.48460007[sec]
+iteration : 1036
+elapsed_time:2790.73715115[sec]
+iteration : 1037
+elapsed_time:2792.41390109[sec]
+iteration : 1038
+elapsed_time:2794.08208895[sec]
+iteration : 1039
+elapsed_time:2795.85216713[sec]
+iteration : 1040
+elapsed_time:2797.87862015[sec]
+iteration : 1041
+elapsed_time:2799.73115206[sec]
+iteration : 1042
+elapsed_time:2801.6383791[sec]
+iteration : 1043
+elapsed_time:2803.03582001[sec]
+iteration : 1044
+elapsed_time:2805.09940195[sec]
+iteration : 1045
+elapsed_time:2807.2767961[sec]
+iteration : 1046
+elapsed_time:2809.36867309[sec]
+iteration : 1047
+elapsed_time:2811.12293911[sec]
+iteration : 1048
+elapsed_time:2813.0198431[sec]
+iteration : 1049
+elapsed_time:2814.90149093[sec]
+iteration : 1050
+elapsed_time:2816.86243916[sec]
+iteration : 1051
+elapsed_time:2818.99108911[sec]
+iteration : 1052
+elapsed_time:2820.80887699[sec]
+iteration : 1053
+elapsed_time:2822.82991815[sec]
+iteration : 1054
+elapsed_time:2825.6906271[sec]
+iteration : 1055
+elapsed_time:2827.44199014[sec]
+iteration : 1056
+elapsed_time:2829.65847111[sec]
+iteration : 1057
+elapsed_time:2831.57288909[sec]
+iteration : 1058
+elapsed_time:2833.50162315[sec]
+iteration : 1059
+elapsed_time:2835.63265204[sec]
+iteration : 1060
+elapsed_time:2837.48152494[sec]
+iteration : 1061
+elapsed_time:2840.318923[sec]
+iteration : 1062
+elapsed_time:2843.20479393[sec]
+iteration : 1063
+elapsed_time:2845.10465908[sec]
+iteration : 1064
+elapsed_time:2847.31134415[sec]
+iteration : 1065
+elapsed_time:2849.47968102[sec]
+iteration : 1066
+elapsed_time:2851.80245996[sec]
+iteration : 1067
+elapsed_time:2854.01421094[sec]
+iteration : 1068
+elapsed_time:2855.78961802[sec]
+iteration : 1069
+elapsed_time:2858.34355092[sec]
+iteration : 1070
+elapsed_time:2860.51459002[sec]
+iteration : 1071
+elapsed_time:2862.58759713[sec]
+iteration : 1072
+elapsed_time:2864.50734115[sec]
+iteration : 1073
+elapsed_time:2866.04352498[sec]
+iteration : 1074
+elapsed_time:2867.79574203[sec]
+iteration : 1075
+elapsed_time:2872.06852913[sec]
+iteration : 1076
+elapsed_time:2873.35839105[sec]
+iteration : 1077
+elapsed_time:2874.74328709[sec]
+iteration : 1078
+elapsed_time:2876.84956098[sec]
+iteration : 1079
+elapsed_time:2878.60137105[sec]
+iteration : 1080
+elapsed_time:2879.46642303[sec]
+iteration : 1081
+elapsed_time:2881.32945395[sec]
+iteration : 1082
+elapsed_time:2883.30113196[sec]
+iteration : 1083
+elapsed_time:2884.68117309[sec]
+iteration : 1084
+elapsed_time:2887.61456513[sec]
+iteration : 1085
+elapsed_time:2888.61897898[sec]
+iteration : 1086
+elapsed_time:2892.98165107[sec]
+iteration : 1087
+elapsed_time:2894.68643308[sec]
+iteration : 1088
+elapsed_time:2896.641536[sec]
+iteration : 1089
+elapsed_time:2898.42279911[sec]
+iteration : 1090
+elapsed_time:2901.5351541[sec]
+iteration : 1091
+elapsed_time:2904.899611[sec]
+iteration : 1092
+elapsed_time:2908.69250607[sec]
+iteration : 1093
+elapsed_time:2910.47364712[sec]
+iteration : 1094
+elapsed_time:2912.08675194[sec]
+iteration : 1095
+elapsed_time:2915.31712008[sec]
+iteration : 1096
+elapsed_time:2917.83500314[sec]
+iteration : 1097
+elapsed_time:2919.47725511[sec]
+iteration : 1098
+elapsed_time:2922.95244408[sec]
+iteration : 1099
+elapsed_time:2924.68875599[sec]
+iteration : 1100
+elapsed_time:2928.55522299[sec]
+iteration : 1101
+elapsed_time:2931.02772999[sec]
+iteration : 1102
+elapsed_time:2935.31327009[sec]
+iteration : 1103
+elapsed_time:2938.83233404[sec]
+iteration : 1104
+elapsed_time:2940.94903898[sec]
+iteration : 1105
+elapsed_time:2943.54814601[sec]
+iteration : 1106
+elapsed_time:2946.77488613[sec]
+iteration : 1107
+elapsed_time:2948.99279094[sec]
+iteration : 1108
+elapsed_time:2951.41372108[sec]
+iteration : 1109
+elapsed_time:2953.46613193[sec]
+iteration : 1110
+elapsed_time:2955.53035307[sec]
+iteration : 1111
+elapsed_time:2956.61203909[sec]
+iteration : 1112
+elapsed_time:2958.19668508[sec]
+iteration : 1113
+elapsed_time:2959.28292799[sec]
+iteration : 1114
+elapsed_time:2963.10438704[sec]
+iteration : 1115
+elapsed_time:2965.75126696[sec]
+iteration : 1116
+elapsed_time:2967.57204509[sec]
+iteration : 1117
+elapsed_time:2969.68404293[sec]
+iteration : 1118
+elapsed_time:2971.24509406[sec]
+iteration : 1119
+elapsed_time:2973.26553607[sec]
+iteration : 1120
+elapsed_time:2975.77896905[sec]
+iteration : 1121
+elapsed_time:2979.56915402[sec]
+iteration : 1122
+elapsed_time:2981.44418097[sec]
+iteration : 1123
+elapsed_time:2983.554739[sec]
+iteration : 1124
+elapsed_time:2985.49245811[sec]
+iteration : 1125
+elapsed_time:2987.3072381[sec]
+iteration : 1126
+elapsed_time:2989.26949406[sec]
+iteration : 1127
+elapsed_time:2991.06407595[sec]
+iteration : 1128
+elapsed_time:2993.23271394[sec]
+iteration : 1129
+elapsed_time:2995.54379511[sec]
+iteration : 1130
+elapsed_time:2999.93890214[sec]
+iteration : 1131
+elapsed_time:3002.90882802[sec]
+iteration : 1132
+elapsed_time:3005.09558201[sec]
+iteration : 1133
+elapsed_time:3007.67784309[sec]
+iteration : 1134
+elapsed_time:3010.67064309[sec]
+iteration : 1135
+elapsed_time:3014.38029313[sec]
+iteration : 1136
+elapsed_time:3015.85463405[sec]
+iteration : 1137
+elapsed_time:3017.54894614[sec]
+iteration : 1138
+elapsed_time:3019.57705998[sec]
+iteration : 1139
+elapsed_time:3021.44044495[sec]
+iteration : 1140
+elapsed_time:3024.46919107[sec]
+iteration : 1141
+elapsed_time:3026.41943908[sec]
+iteration : 1142
+elapsed_time:3028.40129709[sec]
+iteration : 1143
+elapsed_time:3030.08610106[sec]
+iteration : 1144
+elapsed_time:3032.12025309[sec]
+iteration : 1145
+elapsed_time:3035.07535005[sec]
+iteration : 1146
+elapsed_time:3037.46418405[sec]
+iteration : 1147
+elapsed_time:3041.02963805[sec]
+iteration : 1148
+elapsed_time:3042.51890898[sec]
+iteration : 1149
+elapsed_time:3043.71217299[sec]
+iteration : 1150
+elapsed_time:3044.92538095[sec]
+iteration : 1151
+elapsed_time:3047.07065701[sec]
+iteration : 1152
+elapsed_time:3048.70940399[sec]
+iteration : 1153
+elapsed_time:3050.03625107[sec]
+iteration : 1154
+elapsed_time:3051.24194098[sec]
+iteration : 1155
+elapsed_time:3053.34445214[sec]
+iteration : 1156
+elapsed_time:3055.36927104[sec]
+iteration : 1157
+elapsed_time:3057.84966302[sec]
+iteration : 1158
+elapsed_time:3059.35404205[sec]
+iteration : 1159
+elapsed_time:3060.7528491[sec]
+iteration : 1160
+elapsed_time:3062.19011211[sec]
+iteration : 1161
+elapsed_time:3064.18215299[sec]
+iteration : 1162
+elapsed_time:3066.00227094[sec]
+iteration : 1163
+elapsed_time:3067.71377015[sec]
+iteration : 1164
+elapsed_time:3068.9563961[sec]
+iteration : 1165
+elapsed_time:3070.96953106[sec]
+iteration : 1166
+elapsed_time:3072.55898309[sec]
+iteration : 1167
+elapsed_time:3074.42322493[sec]
+iteration : 1168
+elapsed_time:3077.25179696[sec]
+iteration : 1169
+elapsed_time:3079.08552098[sec]
+iteration : 1170
+elapsed_time:3080.55928993[sec]
+iteration : 1171
+elapsed_time:3082.22947502[sec]
+iteration : 1172
+elapsed_time:3083.75366402[sec]
+iteration : 1173
+elapsed_time:3085.82240009[sec]
+iteration : 1174
+elapsed_time:3087.87385607[sec]
+iteration : 1175
+elapsed_time:3089.64862299[sec]
+iteration : 1176
+elapsed_time:3092.19840407[sec]
