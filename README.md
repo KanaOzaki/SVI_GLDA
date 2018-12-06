@@ -5,5 +5,5 @@ python main.py -d 20ng -f ../data/corpus_20ng.txt -v ../data/vocab_20ng.txt —v
 /resultにiterationごとのパラメータ(gamma, mu, sigma)が保存される.
 
 ## ライブラリ
-*scipy
-*numpy
+* scipy
+* numpy
