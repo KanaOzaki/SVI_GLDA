@@ -18,9 +18,19 @@ apply Stochastic Variational Inference (SVI), an efficient inference algorithm, 
 * numpy
 
 ## Files
-* main.py ：　A main script of online VI package.
-* Estimate.py ：　A package of functions for fitting G-LDA using stochastic optimization.
-* printtopics.py ：　A Python script that displays the topics fit using the functions in Estimate.py.
+* main.py :　A main script of online VI package.
+* Estimate.py : A package of functions for fitting G-LDA using stochastic optimization.
+* data.py : A package of functions for data preperation.
+* printtopics.py : A Python script that displays the topics fit using the functions in Estimate.py.
+* calc_pmi.py : A Python script that calculates the PMI (Pointwise Mutual Information) for each topic.
 
-python main.py -d 20ng -f ../data/corpus_20ng.txt -v ../data/vocab_20ng.txt —vec ../data/20ng_vectors_50d.txt -K 50 -t 1024 -k 1.0 -b 16     
-/resultにiterationごとのパラメータ(gamma, mu, sigma)が保存される.
+## Quick start
+
+### Online G-LDA model
+Example : python main.py -d 20ng -f ../data/corpus_20ng.txt -v ../data/vocab_20ng.txt --vec ../data/20ng_vectors_50d.txt -K 50 -t 1024 -k 1.0 -b 16     
+
+### Print topics
+Example : python printtopics.py -d 20ng -v ../data/vocab_20ng.txt --vec ../word_vecs/word_vecs_20ng.json  -K 40 -t 1024 -k 1.0 -b 16
+
+### Calculate PMI
+Example : python calc_pmi.py ../topic/topic_20ng_K40.out
