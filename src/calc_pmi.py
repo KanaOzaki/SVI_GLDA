@@ -29,8 +29,9 @@ def calc_pmi(word_x, word_y, wids, bow):
 		M_x = freq_d.get(wids[word_x][0])
 		M_y = freq_d.get(wids[word_y][0])
 
-		if(min(M_x, M_y) != None):
-			N_xy += min(M_x, M_y)			
+		if(M_x != None and M_y != None):
+			N_xy += min(M_x, M_y)	
+		#if(min(M_x, M_y) != None):		
 
 	# case : N_xy = 0 
 	# word_x and word_y never co_occred in the same document.		
@@ -54,7 +55,7 @@ def main():
 	word_topics = []
 	for line in data:
 		words = line.split()
-		if(words[0] == 'topic'):	
+		if(words[0] == 'topic' and len(words) == 2):	
 			if(words[1] != '0'):
 				word_topics.append(word_topic)
 			word_topic = []	
@@ -73,12 +74,12 @@ def main():
 
 	### load wiki_data
 	with open(DIR_PATH_WIKI + 'word_id_freq.pickle', 'rb') as f1:
-		wids = pk.load(f1)
+		wids = pk.load(f1,encoding='latin1')
 	with open(DIR_PATH_WIKI + 'bow_list.pickle', 'rb') as f2:
-		bow = pk.load(f2)	
+		bow = pk.load(f2,encoding='latin1')
 
 	PMI_topics_mean = []
-        PMI_topics_sum = []
+	PMI_topics_sum = []
 	for k in range(0,K):
 		PMIs = []
 		for i in range(0,10):
@@ -86,20 +87,22 @@ def main():
 				PMI = calc_pmi(word_topics[k][i], word_topics[k][j], wids, bow)
 				PMIs.append(PMI)
 		PMI_mean = sum(PMIs)/45.
-                PMI_sum = sum(PMIs)
-                PMI_topics_mean.append(PMI_mean)
-                PMI_topics_sum.append(PMI_sum)
-
-    
+		PMI_sum = sum(PMIs)
+		PMI_topics_mean.append(PMI_mean)
+		PMI_topics_sum.append(PMI_sum)
+
+	#PMI_topics = n.sort(n.array(PMI_topics))[-1::-1]
+	#index = n.argsort(PMI_topics)
+
 	for i in range(0, K):
-                print ('topic %d    mean : %.16f sum : %.16f' % (i, PMI_topics_mean[i], PMI_topics_sum[i]))
+		print ('topic %d    mean : %.16f sum : %.16f' % (i, PMI_topics_mean[i], PMI_topics_sum[i]))
 	
 	all_PMI_mean = sum(PMI_topics_mean)/float(K)
 	print ('All_PMI_mean : %.16f' % all_PMI_mean)            
 	
 
 	elapsed_time = time.time() - start
-	print ("elapsed_time:{0}".format(elapsed_time)) + "[sec]"
+	print (("elapsed_time:{0}".format(elapsed_time)) + "[sec]")
 
 if __name__ == '__main__':
 	main()
